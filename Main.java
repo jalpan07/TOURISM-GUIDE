@@ -12,9 +12,7 @@ public class Main {
         System.out.println(color.yellow + "\n \n");
         System.out.println("  \t\t\t###############################################################################");
         System.out.println("\n\t\t\t############              DSA Project:        Made by :            ############");
-        System.out.println("\n\t\t\t############              Ekta Kalavadiya     21BCE106             ############");
-        System.out.println("\n\t\t\t############              Manav Pandya        21BCE143             ############");
-        System.out.println("\n\t\t\t############              Prince Nasit        21BCE163             ############");
+        System.out.println("\n\t\t\t############              Jalpan Upadhyay     2022EEB1177          ############");
         System.out.println("\n\t\t\t###############################################################################"
                 + color.reset);
         System.out.println("\n\t\t\t---------------------------------------------------------------------------\n");
